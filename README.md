@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/Himan-Miku"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 <h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
-<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
+[![@himanmiku's Holopin board](https://holopin.io/api/user/board?user=himanmiku)](https://holopin.io/@himanmiku)
 
 ### :woman_technologist: &nbsp;About Me :
 
