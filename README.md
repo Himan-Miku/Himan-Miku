@@ -8,8 +8,8 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- 🔭 I’m currently learning Blockchain Development.
-- ⚡ In my free time I solve DSA problems and read tech articles.
+- 🔭 I’m currently learning Next.js, SvelteKit & Blockchain Development.
+- ⚡ In my free time I solve DSA problems and read tech articles ( sometimes 🥲 ).
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Himan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/Himan-Miku)
 
 ---
