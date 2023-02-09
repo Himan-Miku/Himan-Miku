@@ -12,7 +12,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - ⚡ In my free time I solve DSA problems and read tech articles ( sometimes 🥲 ).
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Himan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/Himan-Miku)
 
----
 
 <img src"https://media.giphy.com/media/afn6ts3eRHxQ5pZtZ9/giphy.gif" height="30" width="30"> <h3> Languages and Tools : </h3>
 
