@@ -38,9 +38,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Himan-Miku&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=Himan-Miku&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<table><tr>
+<td align="center" style="padding=0;width=50%;"><img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=Himan-Miku&show_icons=true&hide=stars&count_private=true" alt="Himan-Miku" /></td>
+<td align="center" style="padding=0;width=50%;"><img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himan-Miku&layout=compact&hide=html" alt="Himan-Miku" /></td>
+</tr></table>
 
 ---
 
