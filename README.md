@@ -14,7 +14,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-### <img src"https://media.giphy.com/media/afn6ts3eRHxQ5pZtZ9/giphy.gif" height="30" width="30"> &nbsp;Languages and Tools :
+<img src"https://media.giphy.com/media/afn6ts3eRHxQ5pZtZ9/giphy.gif" height="30" width="30"> <h3> Languages and Tools : </h3>
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
