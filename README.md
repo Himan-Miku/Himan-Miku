@@ -2,7 +2,7 @@
 <p align="center"><img src="https://media.giphy.com/media/hS42TuYYnANLFR9IRQ/giphy.gif" height="100" width="100"/></p>
 <p align="center">
 <a href="https://www.linkedin.com/in/Himan-Miku"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-<h1 align="center">Hey There <img src="https://media.giphy.com/media/afn6ts3eRHxQ5pZtZ9/giphy.gif" width="40"></h1>
+<h1 align="center">Hey There <img align="bottom" src="https://media.giphy.com/media/afn6ts3eRHxQ5pZtZ9/giphy.gif" width="40"></h1>
 
 ---
 
