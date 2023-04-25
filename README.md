@@ -18,7 +18,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### 🔥 &nbsp; My Stats :
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Himan-Miku&hide=issues&show_icons=true&hide_border=true&theme=github_dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Himan-Miku&includeForks=true&layout=compact&hide=html,css,c,cpp,swift,cmake&hide_border=true&langs_count=8&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Himan-Miku&includeForks=true&layout=compact&hide=html,css,c,c%2B%2B,objective-c,kotlin,swift,cmake&hide_border=true&langs_count=8&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
