@@ -11,7 +11,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### ⚒️ &nbsp; Languages and Tools :
 
 
-[![My Skills](https://skillicons.dev/icons?i=figma,bash,java,js,ts,tailwind,react,nextjs,docker,flutter,firebase,mongodb,postgres,prisma,git,solidity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,bash,java,js,ts,tailwind,react,nextjs,docker,flutter,firebase,mongodb,postgres,prisma,git,solidity&perline=8)](https://skillicons.dev)
 
 ---
 
