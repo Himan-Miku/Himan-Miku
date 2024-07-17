@@ -24,4 +24,4 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### 🎧 &nbsp; Spotify :
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=augkhvwidod09q0x020ltup7t&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=4c8eda&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=augkhvwidod09q0x020ltup7t&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=3f88e5&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
